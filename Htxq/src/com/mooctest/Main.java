@@ -81,7 +81,7 @@ public class Main {
 	    driver.findElementById("com.floral.life:id/img_back").click();
 	    driver.findElementById("com.floral.life:id/qita").click();
 	    driver.findElementById("com.floral.life:id/iv_back").click();
-	    driver.findElementById("com.floral.life:id/et_phone").sendKeys("18962905290");;
+	    driver.findElementById("com.floral.life:id/et_phone").sendKeys("13800000000");;
 	    driver.findElementById("com.floral.life:id/btn_login_confirm").click();
 	    driver.findElementById("com.floral.life:id/iv_back").click();
 	    driver.findElementById("com.floral.life:id/iv_close").click();
